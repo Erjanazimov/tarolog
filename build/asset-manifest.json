@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5d62b5b.chunk.css",
+    "main.js": "/static/js/main.f0aec07b.chunk.js",
+    "main.js.map": "/static/js/main.f0aec07b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b8b9f84b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b8b9f84b.js.map",
+    "static/js/2.70e84576.chunk.js": "/static/js/2.70e84576.chunk.js",
+    "static/js/2.70e84576.chunk.js.map": "/static/js/2.70e84576.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5983ef041db6e2e37dd17a1bedf372d7.js": "/precache-manifest.5983ef041db6e2e37dd17a1bedf372d7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a5d62b5b.chunk.css.map": "/static/css/main.a5d62b5b.chunk.css.map",
+    "static/js/2.70e84576.chunk.js.LICENSE.txt": "/static/js/2.70e84576.chunk.js.LICENSE.txt",
+    "static/media/IMAGE 2024-04-22 16:04:54.jpg": "/static/media/IMAGE 2024-04-22 16:04:54.a9af31bf.jpg",
+    "static/media/IMAGE 2024-04-22 16:04:56.jpg": "/static/media/IMAGE 2024-04-22 16:04:56.e65947f5.jpg",
+    "static/media/IMAGE 2024-04-22 16:04:57.jpg": "/static/media/IMAGE 2024-04-22 16:04:57.9be9cace.jpg",
+    "static/media/IMAGE 2024-04-22 16:04:58.jpg": "/static/media/IMAGE 2024-04-22 16:04:58.3b360248.jpg",
+    "static/media/IMAGE 2024-04-22 16:05:00.jpg": "/static/media/IMAGE 2024-04-22 16:05:00.8f0b0abf.jpg",
+    "static/media/IMAGE 2024-04-22 16:05:01.jpg": "/static/media/IMAGE 2024-04-22 16:05:01.9c644f92.jpg",
+    "static/media/IMAGE 2024-04-22 16:05:04.jpg": "/static/media/IMAGE 2024-04-22 16:05:04.aca0f21d.jpg",
+    "static/media/IMAGE 2024-04-22 16:05:06.jpg": "/static/media/IMAGE 2024-04-22 16:05:06.3f932b93.jpg",
+    "static/media/IMAGE 2024-04-22 16:05:07.jpg": "/static/media/IMAGE 2024-04-22 16:05:07.1d701da1.jpg",
+    "static/media/IMAGE 2024-04-22 16:05:09.jpg": "/static/media/IMAGE 2024-04-22 16:05:09.54ea2171.jpg",
+    "static/media/IMAGE 2024-04-22 16:05:11.jpg": "/static/media/IMAGE 2024-04-22 16:05:11.571dd3fe.jpg",
+    "static/media/IMAGE 2024-04-22 16:05:13.jpg": "/static/media/IMAGE 2024-04-22 16:05:13.f7ba9ce5.jpg",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/dana1.png": "/static/media/dana1.8186387a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8b9f84b.js",
+    "static/js/2.70e84576.chunk.js",
+    "static/css/main.a5d62b5b.chunk.css",
+    "static/js/main.f0aec07b.chunk.js"
+  ]
+}
